@@ -2,15 +2,15 @@
   <img src="banner.jpg" alt="Remote Sensing Banner" width="100%" />
 </p>
 
-# 👋 Hi! I'm Hadi Emami  
-🌍 Researcher and developer in **Remote Sensing**  
-🌱 Focused on **Agriculture** and **Natural Hazards**  
-🤖 Passionate about **Artificial Intelligence, especially Explainable AI (XAI)** for analyzing satellite data  
-🐍 Programming with **Python** and scientific tools (NumPy, GDAL, TensorFlow, PyTorch)  
+#  Hi! I'm Hadi Emami  
+ Researcher and developer in **Remote Sensing**  
+ Focused on **Agriculture** and **Natural Hazards**  
+ Passionate about **Artificial Intelligence, especially Explainable AI (XAI)** for analyzing satellite data  
+ Programming with **Python** and scientific tools (NumPy, GDAL, TensorFlow, PyTorch)  
 
 ---
 
-## 🛠 Skills & Tools  
+## Skills & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-4CAF50?style=for-the-badge)
@@ -36,23 +36,23 @@
 
 ##  Featured Projects  
 
-- [📚 Julia Programming Full Course](https://github.com/hadiiemami/Julia-Programming-Full-Course) → Complete course for learning Julia programming  
-- [🛰️ Multi-Satellite Data Downloader](https://github.com/hadiiemami/Multi-Satellite-Data-Downloader) → Automated downloader for multi-satellite data  
-- [🧭 Coordinate Converter](https://github.com/hadiiemami/coord-converter) → Convert between different coordinate systems  
-- [🌦️ Weather Dashboard](https://github.com/hadiiemami/weather-dashboard) → Interactive weather monitoring dashboard  
-- [📷 Satellite Image Classification with CNN](https://github.com/hadiiemami/Satellite-Image-Classification-with-CNN-in-Python) → Classify satellite images using deep learning (CNN)  
-- [🌱 Vegetation Index Calculator](https://github.com/hadiiemami/vegetation-index-calculator) → Calculate vegetation indices from satellite imagery  
+- [ Julia Programming Full Course](https://github.com/hadiiemami/Julia-Programming-Full-Course) → Complete course for learning Julia programming  
+- [ Multi-Satellite Data Downloader](https://github.com/hadiiemami/Multi-Satellite-Data-Downloader) → Automated downloader for multi-satellite data  
+- [ Coordinate Converter](https://github.com/hadiiemami/coord-converter) → Convert between different coordinate systems  
+- [ Weather Dashboard](https://github.com/hadiiemami/weather-dashboard) → Interactive weather monitoring dashboard  
+- [ Satellite Image Classification with CNN](https://github.com/hadiiemami/Satellite-Image-Classification-with-CNN-in-Python) → Classify satellite images using deep learning (CNN)  
+- [ Vegetation Index Calculator](https://github.com/hadiiemami/vegetation-index-calculator) → Calculate vegetation indices from satellite imagery  
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 ![Hadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadiiemami&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiiemami&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=3Pjy00UAAAAJ)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadiiemami)  
@@ -63,7 +63,7 @@
 
 ---
 
-## ✨ Inspirational Quote  
+##  Inspirational Quote  
 
 *"Bridging the power of Remote Sensing and Explainable Artificial Intelligence to unlock new insights for a more resilient and sustainable planet 🌍"*  
 
