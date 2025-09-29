@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 - [📚 Julia Programming Full Course](https://github.com/hadiiemami/Julia-Programming-Full-Course) → Complete course for learning Julia programming  
 - [🛰️ Multi-Satellite Data Downloader](https://github.com/hadiiemami/Multi-Satellite-Data-Downloader) → Automated downloader for multi-satellite data  
@@ -70,5 +70,5 @@
 ---  
 
 <p align="center">
-  🚀 Built with ❤️ by Hadi Emami
+   Built with ❤️ by Hadi Emami
 </p>
